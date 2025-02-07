@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GhisNiagaraBuoyancySyst",
+	"Description": "Experimental Buoyancy System using Niagara Export Interface to perform GPU async readbacks",
+	"Category": "Other",
+	"CreatedBy": "Ghislain GIRARDOT",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
