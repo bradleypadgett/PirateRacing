@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GhisMeshCircularScan",
+	"Description": "Simple tool to perform a circular scan of a mesh and export the location & normal of the geometry into a render target",
+	"Category": "Other",
+	"CreatedBy": "Ghislain GIRARDOT",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}
