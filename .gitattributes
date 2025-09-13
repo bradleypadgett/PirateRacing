@@ -4,3 +4,5 @@
 Content/ModularCliffs/Materials/Textures/T_env_sky_HDR.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Megascans/Surfaces/** filter=lfs diff=lfs merge=lfs -text
 Content/Import/SM_Ship.uasset filter=lfs diff=lfs merge=lfs -text
+Content/PirateRacing/Assets/PirateShip/SK_Boom.uasset filter=lfs diff=lfs merge=lfs -text
+Content/PirateRacing/Assets/PirateShip/SM_Rope.uasset filter=lfs diff=lfs merge=lfs -text
